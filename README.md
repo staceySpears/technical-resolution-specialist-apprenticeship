@@ -4,6 +4,8 @@ A 90-day, hands-on production support apprenticeship building evidence of operat
 
 This repository is my evidence locker: every lab, incident report, runbook, script, and project lives here, version-controlled and timestamped.
 
+**Integrated real system:** this apprenticeship runs in tandem with deploying and operating [Tenura](https://github.com/staceySpears) — a full-stack compliance-oriented rental application (React/Node/MongoDB, Render + Vercel) that serves as **Project 0: Tenura Production Support Deployment**. Linux labs build the foundations; Tenura provides the real deployment, monitoring, troubleshooting, and incident evidence. Operational docs live in the Tenura repo (`docs/ops/`, `docs/runbooks/`); incident reports are catalogued here in the Technical Incident Library.
+
 ## Program Structure
 
 | Phase | Days | Focus |

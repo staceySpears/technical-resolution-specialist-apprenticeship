@@ -53,6 +53,16 @@ Useful Multipass commands: `multipass list`, `multipass stop trs-lab`, `multipas
 
 ---
 
+## Track A: Tenura Deployment & Operations (runs all phases)
+
+- [Render docs](https://render.com/docs) — backend deployment, env vars, logs, health checks, rollbacks
+- [Vercel docs](https://vercel.com/docs) — frontend deployment, env vars, instant rollback to previous deployments
+- [MongoDB Atlas docs](https://www.mongodb.com/docs/atlas/) — database hosting, network access rules, connection troubleshooting
+- [UptimeRobot](https://uptimerobot.com/) — free uptime monitoring for the deployed health endpoint (Phase 2+)
+- [12-Factor App: Config](https://12factor.net/config) — the principle behind environment variable management
+
+---
+
 ## Phase 2: Application & Database Support (Weeks 5–8)
 
 ### Java / Spring Boot support
