@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Generated health-check output (keep curated samples only)
+week-01-linux-incident-basics/logs/syscheck-*.txt
+
+# Local environment
+.env
+.claude/settings.local.json
