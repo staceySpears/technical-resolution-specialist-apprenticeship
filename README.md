@@ -22,6 +22,7 @@ This repository is my evidence locker: every lab, incident report, runbook, scri
 | [`incident-management-simulator/`](incident-management-simulator/) | Ticket creation, severity, assignment, and escalation workflows (Portfolio Project 1 — Phase 2) |
 | [`application-monitoring-dashboard/`](application-monitoring-dashboard/) | CPU/memory/service monitoring with alerting (Portfolio Project 2 — Phase 3) |
 | [`progress-tracker.md`](progress-tracker.md) | Daily/weekly progress, skills matrix, and project status |
+| [`RESOURCES.md`](RESOURCES.md) | Curated external resources by phase, plus macOS lab environment setup |
 
 ## Background
 
